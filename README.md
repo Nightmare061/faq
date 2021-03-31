@@ -78,7 +78,7 @@
 **Q:** Mam super pomysł odnośnie serwera?! Komu z administracji go wysłać?  
 **A:** Pomysły odnośnie serwera i spraw dookoła serwerowych należy zamieszczać na discordzie na kanale #propozycje  
 
-**Q:** Chcę zostać partnerem twich, jakie wymagania muszę spełnić?  
+**Q:** Chcę zostać partnerem WildWest, jakie wymagania muszę spełnić?  
 **A:** Należy zapoznać się z wymaganiami na kanale #partnerstwo  
 
 **Q:** Ktoś złamał przy mnie regulamin, co począć?  
