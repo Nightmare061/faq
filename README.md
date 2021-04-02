@@ -64,8 +64,11 @@
 **Q:** Moja postać została zraniona, jak odzyskać życie?  
 **A:** Aby odzyskać życie można skorzystać z pomocy wykwalifikowanego lekarza w lecznicy, bądź spróbować opanować sytuację stosując np. nawary bądź bandaże.  
 
-**Q:** Dostałem BW, ale medyk nie przybył, czy mam czekać dalej?  
+**Q:** Dostałem BW, ale doktor nie przybył, czy mam czekać dalej?  
 **A:** Pamiętaj, że pracownicy lecznicy poruszają się konno, więc jeśli korzystasz z opcji wezwania, miej na względzie czas, jaki potrzebny jest na dotarcie na miejsce.  
+
+**Q:** Otrzymałem pomoc od lekarza, ale nie mogę wyciągnąć broni. Coś się zbugowało?  
+**A:** Wszystko jest zamierzone, po podniesieniu przez lekarza jest nakładany cooldown nim twoja wycieńczona postać ponownie chwyci za broń. Wystarczy poczekać.
 
 ## 3. Sprawy discordowe
 
