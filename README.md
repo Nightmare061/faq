@@ -14,7 +14,7 @@
 ## 2. Na Whiteliście
 
 **Q:** Jakie frakcje są dostępne w grze?  
-**A:** Wśród głównych frakcji znajdziemy repertuar składający się z Szeryfów, Barmanów, Pracowników Lecznicy, Rusznikarzy, Farmerów oraz bandy wyjęte spod prawa.  
+**A:** Wśród głównych frakcji znajdziemy repertuar składający się z Szeryfów, Barmanów, Pracowników Lecznicy, Rusznikarzy, Farmerów oraz band wyjętych spod prawa.  
 
 **Q:** Dojechałem do miejsca gdzie jest napisane: "Jesli chcesz dalej podróżować zmień sesję".  
 O co chodzi?
@@ -36,38 +36,41 @@ O co chodzi?
 **Q:** Tekstury ubrań przechodzą przez siebie, jak to naprawić?  
 **A:** Zdejmij oraz załóż problematyczne części ubiory aby się dopasowały (za pomocą komendy na kanale #klawiszologia lub pod klawiszem 'u')  
 
+**Q:** Zniknęła mi postać po wpisaniu /loadskin. Nie ładuje mi się postać po wybraniu ubrań. Co zrobić?  
+**A:** Ów problem jest generowany przez moc komputera. W zatłoczonym miasteczku ładowanie postaci może potrwać dłużej niż poza nim. Zaleca się wybranie kawałek w dzicz, a postać na spokojnie się załaduje. Jeśli nie, zalecany jest relog RedM. (nie zalecane jest spamienie komendą /loadskin)  
+
 **Q:** Woda i chleb ze sklepu ledwo co pomagają zaspokoić głód i pragnienie, jak napełniać je bardziej efektownie?  
 **A:** Wystarczy coś bardziej pożywnego - posiłki można nabyć np. w Saloonie bądź wytworzyć samemu jeśli posiada się wymagane ku temu składniki.  
 
 **Q:** Jak założyć/zdjąć broń?  
-**A:** Na ekranie ekwipunku (B) należy przeciągnąć daną broń na pole "USE".  
+**A:** Na ekranie ekwipunku (B) należy kliknąć dwa razy LPM na wybranej broni, aby jej użyć.  
 
 **Q:** Kupiłem amunicję do swojej broni, ale nie mogę jej załadować do broni. Pudełko znika, a broń nadal pusta. Dlaczego?  
-**A:** Aby załadować broń należy wpierw wyposażyć postać (użyć broni aby pojawiła się pod TAB), następnie trzeba ją wyciągnąć (wybrać aby postać trzymała w rękach). Na koniec należy użyć zakupionej amunicji (przeciągnąć amunicję na pole USE)  
+**A:** Aby załadować broń należy wpierw wyposażyć postać (użyć broni aby pojawiła się pod TAB), następnie trzeba ją wyciągnąć (wybrać aby postać trzymała w rękach). Na koniec należy użyć zakupionej amunicji (w ekwipunku 2xLPM na amunicji)  
 
 **Q:** Nie mogę podnieść przedmiotu prawym przyciskiem myszy, co zrobić?  
 **A:** Użyj komendy /pickup przy przedmiocie leżącym w pobliżu.  
 
 **Q:** Jak wytwarzać przedmioty?  
-**A:** Należy posiadać wymagane przedmioty składowe lub składniki, następnie skorzystać z pola crafting (w centralnym punkcie ekranu przy włączonym ekwipunku) bądź w przypadku niektórych przepisów należy skorzystać ze stołu do craftingu lub innego obiektu (np. ognisko z garnkiem).  
+**A:** Należy posiadać wymagane przedmioty składowe lub składniki, następnie skorzystać z panelu craftingu w ekwipunku (przy włączonym ekwipunku, kliknąć C) bądź w przypadku niektórych przepisów należy skorzystać ze stołu do craftingu lub innego obiektu (np. ognisko z garnkiem). Wybrany przepis tworzy się poprzez kliknięcie 2xLPM i wybrania ilości przedmiotów do wytworzenia.  
 
 **Q:** Co mogę wytworzyć?  
 **A:** Zajrzyj na https://wildwest.pl/crafting/, lecz pamiętaj że nie wszystko jest dostępne publicznie
 
 **Q:** Upolowałem zwierzynę, ale nie mogę jej oskórować, co teraz?  
-**A:** Aby oskórować zwierzynę, potrzebny jest nóż myśliwski, który można nabyć w sklepie rusznikarza. Powinien on być wyposażony (należy z ekwipunku przenieść nóż na pole 'use').  
+**A:** Aby oskórować zwierzynę, potrzebny jest nóż myśliwski, który można nabyć w sklepie rusznikarza. Powinien on być wyposażony (należy w ekwipunku kliknąć 2xLPM na nożu) 
 
 **Q:** Jedyna zwierzyna jaką mogę przytroczyć do konia to duża przy zadzie, dlatego nie mogę zawiesić pomniejszych po bokach?  
 **A:** Należy pamiętać, że zwierzyny nie przyczepimy do włosia konia. O ile możliwe jest przewiązanie zwierzyny większej na zadzie końskim, to pomniejsze zwierzyny wymagają przystosowanego do tego siodła.  
 
 **Q:** Mój koń jest wycieńczony, jak mu pomóc odzyskać statystyki?  
-**A:** O wierzchowca warto dbać! Marchewka, jabłko czy kostka cukru zachęci konika do regeneracji sił.  
+**A:** O wierzchowca warto dbać! Marchewka, jabłko czy kostka cukru zachęci konika do regeneracji sił. Warto też poszukać kogoś kto zna się na koniach np Koniarza.
 
 **Q:** Moja postać została zraniona, jak odzyskać życie?  
 **A:** Aby odzyskać życie można skorzystać z pomocy wykwalifikowanego lekarza w lecznicy, bądź spróbować opanować sytuację stosując np. nawary bądź bandaże.  
 
 **Q:** Dostałem BW, ale lekarz nie przybył, czy mam czekać dalej?  
-**A:** Pamiętaj, że pracownicy lecznicy poruszają się konno, więc jeśli korzystasz z opcji wezwania, miej na względzie czas, jaki potrzebny jest na dotarcie na miejsce.  
+**A:** Pamiętaj, że pracownicy lecznicy poruszają się konno, więc jeśli korzystasz z opcji wezwania, miej na względzie czas, jaki potrzebny jest na dotarcie na miejsce. Jeśli nikt nie przybędzie, możesz spokojnie wybrać opcję odrodzenia się.
 
 ## 3. Sprawy discordowe
 
@@ -77,7 +80,7 @@ O co chodzi?
 **Q:** Dostałam/-em crasha podczas gry z innymi, co teraz?  
 **A:** Należy stosowną informację zamieścić na kanale #crash na discordzie, aby powiadomić osoby biorące udział w akcji o możliwym powrocie w niedalekim czasie.  
 
-**Q:** Mam super pomysł odnośnie serwera?! Komu z administracji go wysłać?  
+**Q:** Mam super pomysł odnośnie serwera! Komu z administracji go wysłać?  
 **A:** Pomysły odnośnie serwera i spraw dookoła serwerowych należy zamieszczać na discordzie na kanale #propozycje  
 
 **Q:** Chcę zostać partnerem WildWest, jakie wymagania muszę spełnić?  
