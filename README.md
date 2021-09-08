@@ -69,7 +69,13 @@ O co chodzi?
 **Q:** Moja postać została zraniona, jak odzyskać życie?  
 **A:** Aby odzyskać życie można skorzystać z pomocy wykwalifikowanego lekarza w lecznicy, bądź spróbować opanować sytuację stosując np. nawary bądź bandaże.  
 
-**Q:** Dostałem BW, ale lekarz nie przybył, czy mam czekać dalej?  
+**Q:** Dostałem BW i pojawiło się okienko Opisu Stanu Pacejnta. Co ono oznacza?  
+**A:** Opis Stanu Pacejnta pojawia się w momencie gdy coś się stanie Twojej postaci i dostaniesz BW. Służy on do przekazania informacji na temat stanu Twojej postaci lekarzowi, a nie do pozostawiania głupich wiadomości lub przekazywania informacji powiązanych z Metagamingiem. W przypadku przygotowywania opisy, warto nie poprzestawać na opisie "postrzelony w bark". Zróbcie obszerny opis, jeśli postrzał to jak wielka rana, jak mocno krwawi i tak dalej.  
+
+**Q:** Dostałem BW, jak mogę otrzymać pomoc?  
+**A:** To proste! Po uzupełnieniu Opisu Stanu Pacjenta (pw), wystarczy wcisnąć przycisk HOME i czekać na przybycie doktora!  
+
+**Q:** Lekarz nie przybył, a nadal jestem ranny. Czy mam czekać dalej?  
 **A:** Pamiętaj, że pracownicy lecznicy poruszają się konno, więc jeśli korzystasz z opcji wezwania, miej na względzie czas, jaki potrzebny jest na dotarcie na miejsce. Jeśli nikt nie przybędzie, możesz spokojnie wybrać opcję odrodzenia się.
 
 ## 3. Sprawy discordowe
